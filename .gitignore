@@ -10,3 +10,12 @@ target/
 dist/
 build/
 *.log
+
+# 运行时产物（由 pipeline.py 生成）
+warehouse.db
+warehouse.db-journal
+warehouse.db-wal
+warehouse.db-shm
+quality_report.txt
+quarantine/
+.pytest_cache/

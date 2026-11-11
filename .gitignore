@@ -1,0 +1,12 @@
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+node_modules/
+__pycache__/
+target/
+dist/
+build/
+*.log

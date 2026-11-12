@@ -10,3 +10,8 @@ target/
 dist/
 build/
 *.log
+
+# 管道运行产物
+pipeline.db
+quarantine/
+quality_report.txt
